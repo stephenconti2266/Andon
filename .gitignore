@@ -6,3 +6,4 @@ dist/
 __pycache__/
 *.pyc
 tmp/
+.pytest_cache/
