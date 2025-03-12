@@ -3,3 +3,4 @@ name = "andon"
 version = "0.1.0"
 description = "A Lean quality system for AI-assisted work — every defect becomes a permanent countermeasure. Built by a manufacturing operator."
 requires-python = ">=3.10"
+# guard against empty input
